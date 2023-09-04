@@ -12,7 +12,6 @@ Este repositorio contiene el código fuente del backend de Eventizy, que proporc
 
 Puedes clonar este repositorio utilizando el siguiente comando:
 
-```bash
 git clone <URL_DEL_REPOSITORIO>
 
 Luego, instala las dependencias necesarias ejecutando:
@@ -26,11 +25,12 @@ Asegúrate de configurar las variables de entorno necesarias antes de ejecutar e
 PORT=3000
 MONGODB_URI=mongodb://localhost:27017/eventizy
 
-
 ## Uso
 
 Para ejecutar el servidor backend, utiliza el siguiente comando:
 
 npm start
+
+```
 
 ```
